@@ -7,7 +7,6 @@ permalink: /agenda/
 Below is the agenda for the 2021 BEACON Congress Sandbox Session, _"Loci of Control: Concepts of genetic complexity as a means of societal oppression"_. All times US Eastern.
 
 #### THURSDAY, AUGUST 19, 2021
-4:00 PM - 5:30 PM
 
 Start | Length | Item | Goal
 4:00 PM | 15 MIN | A Brief History of Genetic Complexity | Informative
