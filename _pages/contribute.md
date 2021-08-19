@@ -17,6 +17,7 @@ Acacia L. Ackles | PhD Candidate | Michigan State University
 Kevin A. Bird | PhD Candidate | Michigan State University
 Miranda Wade | PhD Candidate | Michigan State University
 Wendy Leuenberger | PhD Student | Michigan State University
+
 \+ and 3 others
 
 ## Contribution PAQ (Possibly Asked Questions)
