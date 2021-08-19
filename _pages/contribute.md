@@ -12,7 +12,7 @@ Please [fill out this authorship form][authorship] to indicate your interest in 
 
 _Contributors are listed alphabetically by given/chosen name rather than by surname. This list is only to showcase current contributors and does not reflect authorship order._
 
-**Name** | **Position** | **Institution**
+**Name** | **Position** | **Affiliation**
 Acacia L. Ackles | PhD Candidate | Michigan State University
 Kevin A. Bird | PhD Candidate | Michigan State University
 Miranda Wade | PhD Candidate | Michigan State University
