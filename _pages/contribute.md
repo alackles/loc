@@ -22,7 +22,7 @@ Wendy Leuenberger | PhD Student | Michigan State University
 
 ## Contribution PAQ (Possibly Asked Questions)
 
-### Are you looking for more contributers?
+### Are you looking for more contributors?
 
 **Yes!** We are looking for any and all participants interested in lending their expertise to this project. Genetic complexity and societal oppression is a broad topic; we are of course interested in perspectives of biologists and sociologists, but interested contributors of any background are invited to participate.
 
