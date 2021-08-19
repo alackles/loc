@@ -15,8 +15,9 @@ _Contributors are listed alphabetically by given/chosen name rather than by surn
 **Name** | **Position** | **Institution**
 Acacia L. Ackles | PhD Candidate | Michigan State University
 Kevin A. Bird | PhD Candidate | Michigan State University
-
-\+ and 5 others
+Miranda Wade | PhD Candidate | Michigan State University
+Wendy Leuenberger | PhD Student | Michigan State University
+\+ and 3 others
 
 ## Contribution PAQ (Possibly Asked Questions)
 
