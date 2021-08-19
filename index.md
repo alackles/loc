@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Home
+title: Welcome to the Loci of Control Project!
 permalink: /
 ---
-
-# Welcome to the Loci of Control Project!
 
 This is a large, open collaboration of cross-disciplinary authors looking to **critically examine concepts of genetic complexity** through an anti-oppressive lens. 
 
