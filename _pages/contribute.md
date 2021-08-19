@@ -13,6 +13,8 @@ Please [fill out this authorship form][authorship] to indicate your interest in 
 **Name** | **Position** | **Institution**
 Acacia L. Ackles | PhD Candidate | Michigan State University
 
+\+ and 6 others
+
 ## Contribution PAQ (Possibly Asked Questions)
 
 ### Are you looking for more contributers?
