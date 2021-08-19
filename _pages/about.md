@@ -14,7 +14,7 @@ Our current goal is to publish a paper which will examinie the origins of geneti
 
 Slides from the 2021 BEACON Congress Sandbox Session
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4obj87EtVJPmySiudDU2yKJVpzTeD3e5FI6Qm_lZ1-kUOGhK0twAl7qWF6BbtLHFJR0iQP0xRpwkj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4obj87EtVJPmySiudDU2yKJVpzTeD3e5FI6Qm_lZ1-kUOGhK0twAl7qWF6BbtLHFJR0iQP0xRpwkj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="379" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Presentation
 
