@@ -10,10 +10,13 @@ Please [fill out this authorship form][authorship] to indicate your interest in 
 
 ## Current Contributors
 
+_Contributors are listed alphabetically by given/chosen name rather than by surname. This list is only to showcase current contributors and does not reflect authorship order._
+
 **Name** | **Position** | **Institution**
 Acacia L. Ackles | PhD Candidate | Michigan State University
+Kevin A. Bird | PhD Candidate | Michigan State University
 
-\+ and 6 others
+\+ and 5 others
 
 ## Contribution PAQ (Possibly Asked Questions)
 
