@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Agenda
-permalink: /agenda/
+title: about
+permalink: /about/
 ---
 
 # Coming Soon!
